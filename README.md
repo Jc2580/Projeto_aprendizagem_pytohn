@@ -9,16 +9,12 @@ linkedin.com/in/joão-carlos-da-silva-campos-139a0910a
 joao.campos@facc.ufjf.br
 
 
-# Trajetória  
-
-Olá pessoal! Sou formado em Administração de empresas, Técnico em segurança do trabalho e graduando em Engenharia de software. Hoje estou em processo de transição de carreira para a área de tecnologia.
-
 # Objetivo 
 
-Meu objetivo é trabalhar na área de tecnologia como análista de dados. 
+Meu objetivo é desenvolver habilidades em python. 
 
 # Habilidades
 
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python) 
 
-![SQL](https://img.shields.io/badge/SQL-000?style=for-the-badge&logo=SQL)
+
